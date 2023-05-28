@@ -1,0 +1,41 @@
+
+.textalign{
+    font-size: 40px;
+    
+    text-shadow: 2px 2px 5px red;
+    text-align:center;
+    color: slateblue  ;
+    
+}
+
+.button1{
+    font-size: 20px;
+    border:  saddlebrown solid;
+    padding:20px 20px;
+}
+.row {
+    
+    padding: 5px 5px;
+}
+.button {
+    font-size: 20px;
+   
+    padding: 20px 27px;
+    border:  saddlebrown solid
+
+}
+#screen{
+    font-size: 20px;
+    padding: 10px 20px;
+    border:  saddlebrown solid;
+    
+    
+}
+.button2 {
+    font-size: 20px;
+    
+     padding: 20px 23px;
+     border:  saddlebrown solid}
+     body{
+        background-color:beige;
+     }
